@@ -1,0 +1,35 @@
+GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+Copyright (C) 2026 ASHI-CORE: Isomorphic Logic & State Transition.
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+Preamble
+
+The GNU General Public License is a free, copyleft license for
+software and other kinds of works.
+
+This license applies to the ASHI-CORE Engine, the K-Signature methodology, 
+and the associated "Job Experiment" datasets and logical operators.
+
+1. Definitions.
+"The Work" refers to the Ashi-Core algorithm, the 1.44 Chandrasekhar 
+Logical Limit implementation, and all scale-invariance testing scripts.
+
+2. Source Code.
+The "source code" for a work means the preferred form of the work 
+for making modifications to it.
+
+3. Attribution.
+Any distribution of this work or derivative works must provide clear 
+and prominent attribution to the original author, citing the 
+"Universal Signature of State Transition" and the ASHI-CORE framework.
+
+[... Il resto del testo standard GPLv3 segue qui ...]
+
+NO WARRANTY
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY 
+APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT 
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT 
+WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED.
