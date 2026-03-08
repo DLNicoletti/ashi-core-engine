@@ -41,7 +41,7 @@ This **5.12% Biometric Constant** represents the "Critical Equilibrium" of neura
 The engine utilizes a custom **Renormalization Group (RG)** approach to map isomorphic data into a unified phase space. 
 
 **Copyright (c) 2026. All Rights Reserved.**
-Distributed under the **GPLv3 License**. Proper attribution to the ASHI-CORE methodology and the $\mathcal{K}$ signature is mandatory for derivative works.
+Distributed under the **CC BY 4.0 License**. Proper attribution to the ASHI-CORE methodology and the $\mathcal{K}$ signature is mandatory for derivative works.
 
 ---
 *System Validation Status: PASS | K-Mean: 8.1356 | Divergence: < 0.001*
