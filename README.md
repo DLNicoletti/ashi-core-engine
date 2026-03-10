@@ -37,6 +37,43 @@ The ASHI-CORE framework is engineered for **High-Reliability (Hi-Rel)** performa
 
 ---
 
+The current implementation is a Functional Proof-of-Concept (TRL3). While the environment configuration is tailored for local independent research, the underlying mathematical core (ASHI-CORE) demonstrates high-level stability across diverse datasets.
+
+ASHI-CORE & EUROPA Framework
+High-Entropy Systems Analysis & Stochastic Percolation Core
+Author: DLNicoletti
+Status: Version v2.0.0-flight-qualified
+Validation: TRL3
+License: MIT / CC BY 4.0
+
+🇮🇹 Nota dell'Autore (Author's Note)
+Questo framework è stato sviluppato come ricerca indipendente in Italia. Per preservare l'integrità del design originale e la paternità intellettuale, la logica interna e i commenti della pipeline sono mantenuti in lingua italiana.
+This framework was developed as independent research in Italy. To preserve the integrity of the original design and intellectual authorship, the internal pipeline logic and comments are maintained in Italian.
+
+### Overview
+ASHI-CORE (Adaptive Systemic Homeostatic Invariant) is a computational engine designed to identify mathematical invariants in high-entropy environments. It specializes in:
+* Stochastic Percolation Theory: Identifying the critical threshold $K_c = 1.441$.
+* Homeostatic Mapping: Monitoring the $0.55$ invariant for systemic stability.
+* Phase Transition Prediction: Detecting the shift from stability to chaos in telemetry and neuro-biometric data.
+
+### Installation & Usage
+The framework is designed to operate within Jupyter Lab (the "Jupiter" environment) as a specialized satellite core ("Europa").
+1. Requirements: Python 3.x, Pandas, Numpy, Glob.
+2. Setup: Clone the repository and ensure your datasets are in the ./data_source/ directory.
+3. Execution: Run the ASHI-CORE.ipynb notebook to initiate the system discovery and validation engine.
+
+### 📊 Scientific Validation & DOI
+This work is officially archived and indexed in the global scientific ecosystem:
+* DOI: 10.5281/zenodo.18937800
+* Indexed in: OpenAIRE (European Open Science Infrastructure)
+* Archived in: Software Heritage (UNESCO-backed Global Archive)
+
+### Academic Collaborations
+I am currently seeking high-impact academic collaborations and PhD opportunities to scale this independent research.
+Contact: [nicolettidavideluca@gmail.com]
+
+---
+
 ## 4. Intellectual Property & Licensing
 
 * **Framework Theory:** NeuroCore™ 049200 Architecture (Proprietary/Reserved).
