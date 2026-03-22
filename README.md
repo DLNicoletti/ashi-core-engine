@@ -65,3 +65,12 @@ Regime classification (stable vs high-connectivity)
 Keywords
 
 Telemetry Analysis, Phase Transition, Signal Stability, Percolation Threshold, Space Data, Predictive Modeling, TRL3
+
+---
+
+## Citation
+
+If you use this work, please cite:
+
+Nicoletti, D. L. (2026). 
+DOI: [https://doi.org/10.5281/zenodo.19033105](https://doi.org/10.5281/zenodo.19103017)
